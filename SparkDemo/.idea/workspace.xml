@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d528f742-0eba-4ff0-87c9-6f4df10e51b6" name="Default Changelist" comment="" />
+    <list default="true" id="d528f742-0eba-4ff0-87c9-6f4df10e51b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SprakMaven/src/main/resources/datasets/19950630.23-19950801.00.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SprakMaven/src/main/resources/datasets/calendar.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SprakMaven/src/main/scala/dfBasic/DFBasicOperations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SprakMaven/src/main/scala/dfBasic/DFBasicOperations.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
